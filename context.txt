@@ -1,1 +1,0 @@
-I want to build a Meta data analyser tool website. meaning the user will be allowed to upload a photo and the website will analyse the meta data and show it to user. the website has to be sleek and modern looking with a dark mode switch
